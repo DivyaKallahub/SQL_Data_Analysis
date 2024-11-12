@@ -1,0 +1,3 @@
+[submodule "Layoffs_SQL_Analysis"]
+	path = Layoffs_SQL_Analysis
+	url = https://github.com/DivyaKallahub/Layoffs_SQL_Analysis.git
